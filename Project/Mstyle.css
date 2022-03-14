@@ -1,0 +1,43 @@
+/*Michael Sanchez
+CSS Stylesheet
+*/
+body{
+	background-color: lightsteelblue;
+	font-family: sans-serif;
+}
+
+table{
+	background-color: floralwhite;
+	border-radius: 8px;
+}
+input[type=text]{
+	background-color: floralwhite;
+	border-radius: 8px;
+}
+input[type=password]{
+	background-color: floralwhite;
+	border-radius: 8px;
+}
+
+input[type=submit]{
+	background-color: lightblue;
+	border-radius: 8px;
+}
+input[type=submit]:hover{
+	background-color: lightskyblue;
+	border-radius: 8px;
+}
+select{
+	background-color: lightblue;
+	border-radius: 4px;
+}
+select:hover{
+	background-color: lightskyblue;
+}
+
+a{
+	color:rebeccapurple;
+}
+a:hover{
+	color:mediumvioletred;
+}
